@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ECF2FF&height=200&section=header&text=TAEHEE%20GITHUB&fontSize=90&&fontColor=d6ace6" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DCD6F7,100:A6B1E1&height=200&section=header&text=TAEHEE%20GITHUB&fontSize=90&&fontColor=424874" />
 </div>
   
 <div align=center>
