@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=TAEHEE%20GITHUB&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ECF2FF&height=200&section=header&text=TAEHEE%20GITHUB&fontSize=90&&fontColor=d6ace6" />
 </div>
   
 <div align=center>
-  
+ 
 <h3 align="center"> 🛠 Tech Stack 🛠 </h3>
   
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
