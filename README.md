@@ -45,3 +45,4 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=taeheev&theme=vue&show_icons=true"/></a>
 </p>
 
+<path xmlns="http://www.w3.org/2000/svg" fill="#9ACB34" fill-opacity="1" d="m 0 0 T 0 150 Q 110 25 220 135 T 440 140 T 660 130 T 880 155 T 880 0 z"/>
