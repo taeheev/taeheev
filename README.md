@@ -6,7 +6,6 @@
 </div>
   
 <div align=center>
- 
 <h3 align="center"> ✨ Tech Stack ✨ </h3>
   
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
@@ -29,6 +28,8 @@
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taeheev&layout=compact">
+<div align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=taeheev&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taeheev&layout=compact">
+</div>
 
