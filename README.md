@@ -1,25 +1,13 @@
 
-<!--
-**taeheev/taeheev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DCD6F7,100:A6B1E1&height=200&section=header&text=TAEHEE%20GITHUB&fontSize=90&&fontColor=424874" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DCD6F7,100:A6B1E1&height=200&section=header&text=Taehee%20Github&fontSize=90&&fontColor=424874" />
 </div>
   
 <div align=center>
  
-<h3 align="center"> 🛠 Tech Stack 🛠 </h3>
+<h3 align="center"> ✨ Tech Stack ✨ </h3>
   
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
@@ -41,8 +29,6 @@ Here are some ideas to get you started:
 
 </div>
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=taeheev&theme=vue&show_icons=true"/></a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taeheev&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=taeheev&show_icons=true">
 
-<path xmlns="http://www.w3.org/2000/svg" fill="#9ACB34" fill-opacity="1" d="m 0 0 T 0 150 Q 110 25 220 135 T 440 140 T 660 130 T 880 155 T 880 0 z"/>
