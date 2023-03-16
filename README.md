@@ -2,7 +2,7 @@
 
 
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DCD6F7,100:A6B1E1&height=200&section=header&text=Taehee%20Github&fontSize=90&&fontColor=424874" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DCD6F7,100:A6B1E1&height=200&section=header&text=Taehee%20Github&fontSize=70&&fontColor=424874" />
 </div>
   
 <div align=center>
@@ -29,6 +29,6 @@
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taeheev&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taeheev&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=taeheev&show_icons=true">
 
