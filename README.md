@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<src = "https://img.shields.io/badge/JAVA-#40AEF0?style=flat-square" />
+<img src = "https://img.shields.io/badge/JAVA-#40AEF0?style=flat-square" />
